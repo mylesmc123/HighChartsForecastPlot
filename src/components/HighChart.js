@@ -476,12 +476,7 @@ const options = {
 
     xAxis: {
         type: 'datetime',
-        // events: {
-        //     setExtremes: function (e) {
-        //         console.log(Highcharts.dateFormat(null, e.min) +
-        //             ' | e.max: ' + Highcharts.dateFormat(null, e.max) + ' | e.trigger: ' + e.trigger);
-        //     }
-        // }
+
     },
     
 };
